@@ -1,6 +1,6 @@
 from random import randint
 
-class ListPicker:
+class WeightedListPicker:
     
     def RandomList(aList, chances):
         package = aList
